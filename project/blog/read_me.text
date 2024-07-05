@@ -1,0 +1,9 @@
+
+
+Make django Blog application
+-JWT Token
+-user type
+    -user 
+    -admin
+admin -login, registation,  add blog etc
+user - registation, login, see blog

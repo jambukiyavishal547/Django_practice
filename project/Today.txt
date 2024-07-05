@@ -1,0 +1,5 @@
+Work Status Update 17/5/2024
+-Django task
+   -add product
+   -edit product
+   -add review 
